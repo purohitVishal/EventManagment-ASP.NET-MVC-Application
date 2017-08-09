@@ -1,0 +1,173 @@
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\ApplicationInsights.config
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\csc.exe
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\vbc.exe
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\EventManagement.dll.config
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\EventManagement.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\EventManagement.pdb
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Antlr3.Runtime.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\EntityFramework.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Newtonsoft.Json.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Helpers.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Mvc.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Optimization.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Razor.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\WebGrease.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\EntityFramework.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Helpers.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Mvc.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Optimization.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.Razor.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\bin\Newtonsoft.Json.xml
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.Migrations.InitialCreate.resources
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.dll
+C:\Users\Vishal\Downloads\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\ApplicationInsights.config
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\csc.exe
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\vbc.exe
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\EventManagement.dll.config
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\EventManagement.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\EventManagement.pdb
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Antlr3.Runtime.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\EntityFramework.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Newtonsoft.Json.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Helpers.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Mvc.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Optimization.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Razor.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\WebGrease.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\EntityFramework.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Helpers.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Mvc.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Optimization.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.Razor.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\bin\Newtonsoft.Json.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\EventManagement\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+D:\intermedate app dev\EventManagement\EventManagement\bin\ApplicationInsights.config
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\csc.exe
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\vbc.exe
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\VBCSCompiler.exe
+D:\intermedate app dev\EventManagement\EventManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\intermedate app dev\EventManagement\EventManagement\bin\EventManagement.dll.config
+D:\intermedate app dev\EventManagement\EventManagement\bin\EventManagement.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\EventManagement.pdb
+D:\intermedate app dev\EventManagement\EventManagement\bin\Antlr3.Runtime.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\EntityFramework.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\EntityFramework.SqlServer.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.Web.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.ApplicationInsights.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\Newtonsoft.Json.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Helpers.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Mvc.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Optimization.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Razor.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.WebPages.Deployment.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.WebPages.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.WebPages.Razor.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\WebGrease.dll
+D:\intermedate app dev\EventManagement\EventManagement\bin\EntityFramework.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\EntityFramework.SqlServer.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.Web.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.ApplicationInsights.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Helpers.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Mvc.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Optimization.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.Razor.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.WebPages.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.WebPages.Deployment.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\System.Web.WebPages.Razor.xml
+D:\intermedate app dev\EventManagement\EventManagement\bin\Antlr3.Runtime.pdb
+D:\intermedate app dev\EventManagement\EventManagement\bin\Newtonsoft.Json.xml
+D:\intermedate app dev\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+D:\intermedate app dev\EventManagement\EventManagement\obj\Debug\EventManagement.dll
+D:\intermedate app dev\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
